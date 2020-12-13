@@ -1,8 +1,3 @@
-# Graders: Please read!!
-
-## Please refer to Team Project Part 6 PDF Write-up:
-It should be called LetsGo_Part_6.pdf, and it is under this master branch. No need to search through folders.
-
 ## What is this project about?:
 We wanted to create an app that would help college students here at CU find things to do and participate in.  Keeping that in 
 mind, our app listed events based on category that students can find on campus, such as a theater production or maybe a sporting event.  The user has to signin with their Google account because we used a Google signin API.  Once they login, the user will click on the type of event they'd be interested in, then they'd click on a specific event.  This will pull up specific information like the location, date, time, etc. We also have a feature where the user can click on a button that will take them to Google Maps if they need help finding where the event is taking place.  In the bottom right corner we give the user the option to star an event if they're interested in going to it. This will pull the information about the event and throw it under the "starred" event category so that it is easier to find the next time the user logs into the app.
