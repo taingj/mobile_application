@@ -20,7 +20,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
 import android.util.Log;
 import android.widget.ListAdapter;
 import android.widget.ListView;
