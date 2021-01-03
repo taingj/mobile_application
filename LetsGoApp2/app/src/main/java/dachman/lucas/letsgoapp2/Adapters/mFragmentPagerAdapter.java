@@ -1,8 +1,10 @@
 package dachman.lucas.letsgoapp2.Adapters;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
+
+
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import dachman.lucas.letsgoapp2.Fragments.EventListCategoryFragment;
 import dachman.lucas.letsgoapp2.Fragments.EventListStarredFragment;

@@ -39,7 +39,7 @@ public class CreateDatabase extends SQLiteOpenHelper{
             COLUMN_DATE + " text , " +
             COLUMN_LOCATION + " text , " +
             COLUMN_STAR + "integer , " +
-            COLUMN_TEMP + " text );";
+            COLUMN_TEMP + "text );";
 
     private static final String DATABASE_DELETE = "drop table" + TABLE_EVENTS ;
 
