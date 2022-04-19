@@ -200,7 +200,7 @@ public class LoginActivity extends AppCompatActivity implements
             //findViewById(R.id.sign_out_button).setVisibility(View.VISIBLE);
         }
         else {
-            mStatusTextView.setText("Signed out");
+            mStatusTextView.setText(R.string.signed_out);
 
             findViewById(R.id.sign_in_button).setVisibility(View.VISIBLE);
             //findViewById(R.id.sign_out_button).setVisibility(View.GONE);
